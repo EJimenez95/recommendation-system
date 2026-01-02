@@ -1,0 +1,34 @@
+#Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+#Virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+#PyCharm files
+.idea/
+*.iml
+
+#OS files
+.DS_Store
+Thumbs.db
+
+#Output folder
+output/
+
+#Data files (if you don't want to upload user/item CSVs)
+#data/
+
+# Logs
+*.log
+
+#Byte-compiled / distribution / packaging
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
