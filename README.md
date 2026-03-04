@@ -16,8 +16,7 @@ It analyzes user preferences and character traits to generate
 personalized recommendations and visual insights.
 
 The goal is to demonstrate **clean software design**, **modular
-architecture**, and **practical machine learning concepts** in a
-portfolio-ready project.
+architecture**, and **practical machine learning concepts**.
 
 ------------------------------------------------------------------------
 
